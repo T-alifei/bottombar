@@ -16,5 +16,5 @@
 
 	//在模块的 build.gradle中添加
 	dependencies {
-		implementation 'com.github.T-alifei:bottombar:1.1.2'
+		implementation 'com.github.T-alifei:bottombar:1.1.3'
 	}
